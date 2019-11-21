@@ -11,7 +11,7 @@
 | 硬盘     | KXG60ZNV1T02 NVMe TOSHIBA 1024GB                             |
 | 显卡     | Intel UHD Graphics 630(0x3e9b0000)                           |
 | 显示器   | 15.6" 1920x1080                                              |
-| 声卡     | Realtek ALC257                                               |
+| 声卡     | Realtek ALC298                                               |
 | 网卡     | 更换为 [DW1820A](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html) |
 
 ## 截屏
